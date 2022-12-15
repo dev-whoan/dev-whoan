@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-whoan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-whoan&layout=compact&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
 <br/><br/>
 [![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-whoan&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
 
