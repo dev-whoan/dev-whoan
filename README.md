@@ -8,7 +8,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-D7873C?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
 <h4>Back-End</h4>
