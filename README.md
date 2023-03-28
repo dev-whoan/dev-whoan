@@ -7,6 +7,7 @@
 <h4>Language</h4>
 <div>
   <img src="https://img.shields.io/badge/Java-D7873C?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-yellow?style=for-the-badge&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/C++-orange?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
@@ -15,6 +16,7 @@
 <div>
   <img src="https://img.shields.io/badge/Servlet-D7873C?style=for-the-badge&logo=JSP&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-lightgray?style=for-the-badge&logo=NestJS&logoColor=red">
 </div>
 
 <h4>Dev Ops</h4>
