@@ -14,15 +14,16 @@
 
 <h4>Back-End</h4>
 <div>
-  <img src="https://img.shields.io/badge/Servlet-D7873C?style=for-the-badge&logo=JSP&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-lightgray?style=for-the-badge&logo=NestJS&logoColor=red">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Servlet-D7873C?style=for-the-badge&logo=JSP&logoColor=white">
 </div>
 
 <h4>Dev Ops</h4>
 <div>
-  <img src="https://img.shields.io/badge/-Docker-007396?style=for-the-badge&logo=Docker">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-007396?style=for-the-badge&logo=Docker">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
 <h4>Database</h4>
