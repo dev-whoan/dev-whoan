@@ -10,11 +10,10 @@
 <div>
   <h4>Primary</h4>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <h4>Coding</h4>
+  <h4>Secondary</h4>
+  <img src="https://img.shields.io/badge/Java-D7873C?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-yellow?style=for-the-badge&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <h4>Coding Test</h4>
-  <img src="https://img.shields.io/badge/Java-D7873C?style=for-the-badge&logo=Java&logoColor=white">
 </div>
 
 <h3>Development</h3>
@@ -26,6 +25,7 @@
 <h4>Back-End</h4>
 <div>
   <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-lightgray?style=for-the-badge&logo=NestJS&logoColor=red">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Servlet-D7873C?style=for-the-badge&logo=JSP&logoColor=white">
@@ -77,6 +77,9 @@
   <img src="https://img.shields.io/badge/Blockchain-2F3134?style=for-the-badge">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
+
+<h3>Certs</h3>
+- [GCP Associate Cloud Engineer](https://www.credly.com/badges/a458c889-146c-42fd-9aa9-efd8d247df4b/public_url)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-whoan&layout=compact&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
 <br/><br/>
