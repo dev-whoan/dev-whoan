@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/GoogleCloud MultiProjects-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
 
-<h4>Microservices</h4>
+<h4>Event Streams</h4>
 <div>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
 </div>
