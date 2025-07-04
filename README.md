@@ -80,9 +80,9 @@
 <h3>Certs</h3>
 - [GCP Associate Cloud Engineer](https://www.credly.com/badges/a458c889-146c-42fd-9aa9-efd8d247df4b/public_url)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-whoan&layout=compact&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-whoan&orgs=connexio-h&layout=compact&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
 <br/><br/>
-[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-whoan&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
+[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-whoan&orgs=connexio-h&theme=tokyonight)](https://github.com/dev-whoan/github-readme-stats)
 
 <!--
 **dev-whoan/dev-whoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
